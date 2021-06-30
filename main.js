@@ -33,7 +33,7 @@ function sorting(){
 
     var display_sorting=[];
 
-    var length_of_sorting = name_of_the_student_array.lenght;
+    var length_of_sorting = name_of_the_student_array.length;
     console.log(length_of_sorting);
 
     for(var k=0; k<length_of_sorting; k++){
